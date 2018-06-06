@@ -1,0 +1,10 @@
+{
+  "data": [
+    {"icon": "curry", "name": "库里"},
+    {"icon": "duncan", "name": "邓肯"},
+    {"icon": "durant", "name": "杜兰特"},
+    {"icon": "jordan", "name": "乔丹"},
+    {"icon": "kobe", "name": "科比"},
+    {"icon": "wade", "name": "韦德"}
+  ]
+}
